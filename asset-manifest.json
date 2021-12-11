@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tiendita-app/static/css/main.81de51f5.chunk.css",
+    "main.js": "/tiendita-app/static/js/main.f5eceb83.chunk.js",
+    "main.js.map": "/tiendita-app/static/js/main.f5eceb83.chunk.js.map",
+    "runtime-main.js": "/tiendita-app/static/js/runtime-main.6d3cfef1.js",
+    "runtime-main.js.map": "/tiendita-app/static/js/runtime-main.6d3cfef1.js.map",
+    "static/js/2.b44bb522.chunk.js": "/tiendita-app/static/js/2.b44bb522.chunk.js",
+    "static/js/2.b44bb522.chunk.js.map": "/tiendita-app/static/js/2.b44bb522.chunk.js.map",
+    "index.html": "/tiendita-app/index.html",
+    "static/css/main.81de51f5.chunk.css.map": "/tiendita-app/static/css/main.81de51f5.chunk.css.map",
+    "static/js/2.b44bb522.chunk.js.LICENSE.txt": "/tiendita-app/static/js/2.b44bb522.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3cfef1.js",
+    "static/js/2.b44bb522.chunk.js",
+    "static/css/main.81de51f5.chunk.css",
+    "static/js/main.f5eceb83.chunk.js"
+  ]
+}
